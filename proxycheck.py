@@ -27,7 +27,7 @@ def check_proxies(proxy_file, url, success_file, failure_file):
     not_work_proxies = []
 
     if not os.path.exists(proxy_file):
-        print(f"{proxy_file} bulunamadı.")
+        print(f"{proxy_file} not found.")
         return
 
     with open(proxy_file, "r") as f:
