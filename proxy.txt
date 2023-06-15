@@ -1,0 +1,8 @@
+Please provide your proxies here.
+
+Examples:
+http://123.45.67.89:8080
+https://123.45.67.89:8443
+ftp://123.45.67.89:21
+socks4://123.45.67.89:1080
+socks5://123.45.67.89:1080
